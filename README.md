@@ -238,3 +238,6 @@ This repository serves as the official landing page for Windows Home Server. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Windows Home Server today!**
+
+---
+**Last updated:** 2026-09-10 20:24:18 UTC
