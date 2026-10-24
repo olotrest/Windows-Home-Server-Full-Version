@@ -240,4 +240,4 @@ This repository serves as the official landing page for Windows Home Server. The
 **Get the most recent version of Windows Home Server today!**
 
 ---
-**Last updated:** 2026-10-24 20:10:57 UTC
+**Last updated:** 2026-10-24 22:52:13 UTC
